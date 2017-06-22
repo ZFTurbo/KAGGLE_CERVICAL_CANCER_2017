@@ -9,3 +9,6 @@
 ## Requirements:
 Python 3.4, Theano 0.9.2, Keras 1.2.2
 
+## Weights
+To use this code you need to put initital weights (pretrained on ImageNET) in "../weights/" folder.
+Download link (~1.5 GB): https://mega.nz/#!zMYjXLBD!AP5MoVHvIk_5GyhQ1ls-IrGp78aeYXDSdhuPwmV4q6E
